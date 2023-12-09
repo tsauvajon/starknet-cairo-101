@@ -130,5 +130,4 @@ mod Ex03 {
     fn update_class_hash(class_hash: felt252) {
         update_class_hash_by_admin(class_hash);
     }
-
 }
